@@ -1,3 +1,9 @@
+mod auto_ref;
+mod bit_manipulation;
+mod closure;
+mod drop_order;
+mod macro_hygiene;
+
 #[cfg(test)]
 mod tests {
     #[test]
